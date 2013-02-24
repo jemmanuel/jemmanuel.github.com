@@ -1,4 +1,4 @@
 jemmanuel.github.com
 ====================
 
-Blog
+my personal thoughts...
